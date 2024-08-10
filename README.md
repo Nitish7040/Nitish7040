@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nitish-pandey-9a6b60230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-pandey" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nitish-pandey-9a6b60230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-pandey" height="30" width="40" /></a>
 <a href="https://fb.com/nitish pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitish pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/_nitish_pandey62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nitish_pandey62" height="30" width="40" /></a>
 </p>
