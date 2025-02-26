@@ -1,3 +1,4 @@
+![logo](https://github.com/Nitish7040/Nitish7040/blob/main/README.md)
 <h2 align="left">Hi 👋, I'm Nitish pandey<br>A passionate Fullstack Developer<br>🌱 I’m currently learning Fullstack technologies<br> 📫 How to reach me    704nitishpandey@gmail.com</h2>
 
 ###
