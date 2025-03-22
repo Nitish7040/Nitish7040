@@ -22,8 +22,6 @@
 
 ###
 
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -96,18 +94,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="286" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nitish7040/nitish7040/output/snake.svg" alt="Snake animation" />
 
 ###
 
