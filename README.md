@@ -6,15 +6,18 @@
 <br clear="both">
 
 <h4 align="left">🌟 Passionate about crafting innovative tech solutions for accessibility and inclusivity, blending creativity with cutting-edge technologies like MERN stack and Full stack.</h4>
+## 📊 GitHub Stats  
 
-###
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-kashyap9&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kashyap9&layout=compact&theme=tokyonight&cache_seconds=1800" height="180px"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish7040&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish7040&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <!-- Streak Stats (alt service) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=priyanshu-kashyap9&theme=tokyonight" height="180px"/>
+</p>
 
 <br clear="both">
 
