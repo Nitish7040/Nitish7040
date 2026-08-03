@@ -1,4 +1,4 @@
-![logo](https://github.com/Nitish7040/Nitish7040/blob/main/COMPUTER%20SCIENCE%20ENGINEER%202.png)
+![logo](https://github.com/Nitish7040/Nitish7040/blob/main/Advisor-LinkedIn-Banner.png)
 <h2 align="left">Hi 👋, I'm Nitish pandey<br>A passionate Cloud and DevOps engineer<br>🌱 I’m currently learning Fullstack technologies<br> 📫 How to reach me    nitish.pandey0005@gmail.com</h2>
 
 ###
